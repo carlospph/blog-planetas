@@ -6,7 +6,7 @@ export function ConteudoBlog() {
     <>
       <section className="pt-[5em] md:pt-[10em] flex items-center min-h-screen px-6">
         {/*CardsNoticias*/}
-        <div className="lg:grid lg:grid-cols-2 lg:gap-8 lg:max-w-5xl mx-auto lg:items-center">
+        <div className="lg:grid lg:grid-cols-2 lg:gap-8 lg:max-w-7xl mx-auto lg:items-center">
           <div>
             <h4 className="text-5xl font-bold pb-3">
               NASA comemora o 250 o aniversário da América
@@ -42,10 +42,10 @@ export function ConteudoBlog() {
         </div>
       </section>
 
-      <section className="px-2 py-6 max-w-5xl mx-auto">
+      <section className="px-2 py-6 max-w-7xl mx-auto">
         <h3 className="text-4xl font-semibold mb-10">Notícias hoje</h3>
 
-        <div className="grid-conteudo max-w-5xl mx-auto gap-5">
+        <div className="grid-conteudo max-w-7xl mx-auto gap-5">
           {/* Card imagem 1 */}
           <div className="card-conteudo card-1">
             <img
@@ -93,7 +93,7 @@ export function ConteudoBlog() {
         </div>
       </section>
 
-      <section className="px-2 pt-6 pb-[100px] max-w-5xl mx-auto">
+      <section className="px-2 pt-6 pb-[100px] max-w-7xl mx-auto">
         <h3 className="text-4xl mb-10 mt-8">Notícias da hora</h3>
         <div className="flex-thumbnail gap-5">
           <div className="card-conteudo card-thumbnail">

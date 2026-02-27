@@ -1,7 +1,7 @@
 export function Footer() {
   return (
     <footer className="bg-gray-900 text-gray-300 py-8">
-      <div className="max-w-5xl mx-auto px-4">
+      <div className="max-w-7xl mx-auto px-4">
         <div className="flex flex-col md:flex-row md:justify-between md:items-start gap-8">
           {/* Logo / Nome do site */}
           <div>

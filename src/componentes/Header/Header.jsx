@@ -10,7 +10,7 @@ export function Header() {
   };
   return (
     <header className="bg-white py-3 shadow-md fixed w-full z-[10]">
-      <div className="navbar flex justify-between max-w-6xl mx-auto items-center">
+      <div className="navbar flex justify-between max-w-7xl mx-auto items-center">
         {/* LOGO */}
         <Link to="/">
           <h2 className="text-2xl font-bold text-blue-600 text-3xl flex items-center">
