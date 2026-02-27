@@ -55,15 +55,7 @@ export function Header() {
                 Login
               </NavLink>
             </li>
-            <li>
-              <NavLink
-                to="painelAdmin"
-                className="text-[20px] text-white"
-                onClick={ocultarMenuMobile}
-              >
-                Administrador
-              </NavLink>
-            </li>
+            
           </ul>
         )}
 
