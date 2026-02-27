@@ -36,7 +36,7 @@ export function Header() {
         {/* MENU MOBILE */}
         {/* só mostrar quando a tela é menor e ao clicar no botão */}
         {showMenuMobile && (
-          <ul className="px-4 flex flex-col gap-5 md:hidden absolute bg-blue-400 w-full h-screen top-[100%] pt-6">
+          <ul className="px-4 flex flex-col gap-5 md:hidden absolute bg-blue-400 w-[200px] h-[220px] top-[100%] pt-6">
             <li>
               <NavLink
                 to="/"
