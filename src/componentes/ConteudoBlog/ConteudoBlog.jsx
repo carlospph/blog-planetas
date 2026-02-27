@@ -17,7 +17,7 @@ export function ConteudoBlog() {
             <p className="text-[18px]">
             Nosso espírito de adaptação e bioengenharia elevará nossa espécie a novas atmosferas. Desde os primeiros domos de sobrevivência no Vale Marineris, até as primeiras florestas sintéticas e as missões que terraformam nosso horizonte, a INTER-ARES representa o instinto de expansão que define a humanidade. À medida que a civilização marciana se aproxima de seu centenário, a Projeto Gênese 100 destaca como a coragem e a fusão nuclear levaram os pioneiros adiante — e como continuamos a romper a barreira do vácuo para a próxima geração de nativos do Planeta Vermelho.
             </p>
-            <Botao text="Saiba mais" bgcolor="bg-blue-400 mt-6"/>
+            <Botao text="Saiba mais" bgcolor="bg-blue-400 mt-6 mb-6"/>
           </div>
           <figure>
             <img
