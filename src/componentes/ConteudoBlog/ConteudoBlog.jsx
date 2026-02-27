@@ -12,19 +12,12 @@ export function ConteudoBlog() {
               NASA comemora o 250 o aniversário da América
             </h4>
             <h5 className="text-[20px] font-semibold my-2">
-              Nosso espírito de aventura e inovação elevará nossa nação a novos
-              patamares.
+            A INTER-ARES comemora o 100º aniversário da Primeira Cúpula de Marte
             </h5>
             <p className="text-[18px]">
-              Desde os primeiros dias de exploração, até os primeiros passos na
-              Lua e as missões que moldam nosso futuro, a NASA representa o
-              espírito de descoberta que define nossa nação. À medida que os
-              Estados Unidos se aproximam de seu semiquincentenário, a Freedom
-              250 destaca como a inovação, a coragem e a liderança científica
-              levaram a América adiante – e como a NASA continua a expandir a
-              fronteira para a próxima geração.
+            Nosso espírito de adaptação e bioengenharia elevará nossa espécie a novas atmosferas. Desde os primeiros domos de sobrevivência no Vale Marineris, até as primeiras florestas sintéticas e as missões que terraformam nosso horizonte, a INTER-ARES representa o instinto de expansão que define a humanidade. À medida que a civilização marciana se aproxima de seu centenário, a Projeto Gênese 100 destaca como a coragem e a fusão nuclear levaram os pioneiros adiante — e como continuamos a romper a barreira do vácuo para a próxima geração de nativos do Planeta Vermelho.
             </p>
-            <Botao text="Saiba mais" />
+            <Botao text="Saiba mais" bgcolor="bg-blue-400"/>
           </div>
           <figure>
             <img
