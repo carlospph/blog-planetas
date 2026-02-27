@@ -1,7 +1,7 @@
 .grid-conteudo {
   display: grid;
   grid-template-columns: 2fr 1fr 1fr;
-  grid-template-rows: 160px 160px;
+  grid-template-rows: 220px 220px;
   grid-template-areas:
     'card-1 card-2 card-3'
     'card-1 card-2 card-4';
